@@ -4,8 +4,7 @@
 <p>you are escaping the world with only 3 btc </p>
 <p> used technologies =>>> react router dom, react-icons</p>
 <p> Have a good time! 🫡</p>
-<img src="(https://github.com/em1ne/space.TRVL/assets/121401426/2ddd0560-f88c-409d-b3af-9ffa8b077fb9)
-" >
+<img src="https://github.com/em1ne/space.TRVL/assets/121401426/2ddd0560-f88c-409d-b3af-9ffa8b077fb9.gif" >
 
 # Getting Started with Create React App
 
