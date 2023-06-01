@@ -1,3 +1,10 @@
+# space.TRVL
+
+<p>Fasten your seat belts 🫡</p>
+<p>you are escaping the world with only 3 btc </p>
+<p> used technologies =>>> react router dom, react-icons</p>
+<p> Have a good time! 🫡</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
